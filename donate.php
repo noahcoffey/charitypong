@@ -1,0 +1,1 @@
+<?php header("location: https://secure2.convio.net/alsa/site/Donation2?idb=93128431&df_id=22726&FR_ID=8182&PROXY_ID=3308498&PROXY_TYPE=20&22726.donation=form1"); die();
