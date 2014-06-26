@@ -1,0 +1,289 @@
+/* ============================== */
+/* ! Layout for desktop version   */
+/* ============================== */
+
+	body {
+		background-color: #efefef;
+		background-image: url('../images/strange_bullseyes.png');
+		background-attachment: fixed;
+	    font-family: "facitweb",sans-serif;
+	}
+	
+	.header {
+		background-color: #fff;
+	}
+	
+	.header .logo {
+		padding: 15px;
+	}
+	
+	.menu {
+		background-color: #888888;
+		-moz-text-shadow: 1px 1px 0 #555555;
+		-webkit-text-shadow: 1px 1px 0 #555555;
+		text-shadow: 1px 1px 0 #555555;
+	}
+	.menu ul {
+	    font-family: "ff-cocon-web-pro", Helvetica, Arial, sans-serif;
+	}
+	
+	.menu ul li {
+	  float: left;
+	  font-size: 22px;
+	  list-style-type: none;
+	  padding: 10px 20px;
+	}
+	
+	.menu ul li a {
+	    text-decoration: none;
+	    color:#fff;
+	}
+	
+	.menu ul li a:hover {
+	    text-decoration: none;
+	    color:#c00000;
+	}
+
+	#slideshow {
+	    position: relative;
+	    height: 28em;
+	    margin-bottom: 15px;
+	}
+	
+	#slideshow img {
+	    position:absolute;
+	    top:0;
+	    left:0;
+	    z-index:8;
+	    opacity:0.0;
+	    max-width:100%;
+	}
+	
+	#slideshow IMG.active {
+	    z-index:10;
+	    opacity:1.0;
+	}
+	
+	#slideshow IMG.last-active {
+	    z-index:9;
+	}
+
+    .info {
+        width: 300px;
+        border-left: 1px dotted #ccc;
+        padding: 10px;
+        margin: 0 10px 10px 20px;
+        float: right;
+    }
+    
+    .info p {
+        margin: 0 0 1em 0;
+        font-size: 14px;
+    }
+    
+    .singleCallout {
+        text-align: center;
+        font-size: 22px;
+        border-top: 1px dotted gray;
+        border-bottom: 1px dotted gray;
+        padding: 15px 0;
+        background-color: #efefef;
+        font-weight: bold;        
+    }
+
+	.page {
+		background-image: url('../images/sidebar_background.png');
+		background-repeat: repeat-y;
+		background-position: right top;
+		background-color: #fff;
+		-moz-box-shadow: 1px 0 0 #efefef;
+		-webkit-box-shadow: 1px 0 0 #efefef;
+		box-shadow: 1px 0 0 #efefef;
+
+	}	
+	
+	.page h1 {
+	    color: #C00000;
+	    margin: 20px 15px 0 15px;
+	    -moz-text-shadow: 2px 2px 0 #CCCCCC;		
+	    -webkit-text-shadow: 2px 2px 0 #CCCCCC;		
+	    text-shadow: 2px 2px 0 #CCCCCC;
+	    
+	}
+
+	.page h2 {
+		font-size: 22px;
+	    color: #444;
+	    margin: 20px 15px 0 15px;
+	    
+	}
+	
+	.page p {
+		margin: 0 15px 15px 15px;		
+		color: #555;
+		line-height: 28px;
+	}
+	
+	.page .box {
+		margin:15px 15px 0 0;
+		clear: left;	
+	}
+	
+	.page .box p {
+		margin: 0 15px 15px 170px;
+	}
+	
+	.page .box .icon {
+	    clear: left;
+	    float: left;
+	    padding: 0px 0 25px 0;
+	    text-align: center;
+	    width: 170px;
+	}
+	
+	.sidebar {
+		margin: 15px 0 0 -15px;
+	}
+
+    .sidebar .donateBox {
+        border: 1px solid darkred;
+        padding: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+        background-color: #fff;        
+    }
+
+	.sidebar h3 {
+		margin-top:15px;
+		-moz-text-shadow: 1px 1px 0px #fff;
+		-webkit-text-shadow: 1px 1px 0px #fff;
+		text-shadow: 1px 1px 0px #fff;
+		color: #333;
+	}
+
+	.sidebar p {
+		margin: 0 15px 15px 0;		
+		color: #555;
+		font-size: 14px;
+		line-height: 26px;
+		
+	}
+	
+	.section {
+		margin: 15px;        
+	}
+	
+	.alsbox {
+		width: 49%;
+		float: left;
+		font-size:80%;	
+	}
+	
+	.sponsor { 
+
+	    margin:30px 50px 30px 50px;
+        display: inline-block;
+	}
+	
+	clear {
+		clear: both;
+	}
+	
+	.photo img {
+	    border: 1px solid #CCCCCC;
+	    -moz-border-radius: 3px;
+	    -webkit-border-radius: 3px;
+	    border-radius: 3px;
+	    -moz-box-shadow: 0 7px 4px -5px gray;
+	    -webkit-box-shadow: 0 7px 4px -5px gray;
+	    box-shadow: 0 7px 4px -5px gray;
+	    float: right;
+	    margin: 0 25px 10px;
+	    padding: 7px;
+		
+	}
+	
+	a {
+		color: #336699;
+	}
+
+	a:hover {
+		color: #000;
+	}
+
+	.footer {
+	    background-color: #999999;
+	    -moz-border-radius: 0 0 8px 8px;
+	    -webkit-border-radius: 0 0 8px 8px;
+	    border-radius: 0 0 8px 8px;
+	    margin-bottom: 25px;
+	    padding: 20px 0;
+	}
+	
+	.footer .left {
+		color: #444;
+	}
+	
+	.footer .right {
+		color: #444;
+		text-align: right;
+	}
+	
+	.footer p {
+		padding: 0 15px;
+	}
+
+	.fsBody .fsForm {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+	}
+
+	.fsPagination {
+	    background-color: #C00000;
+	    border-radius: 8px 8px 8px 8px;
+	    height: 25px;
+	    margin: 25px 0;
+	    padding: 10px;
+	    text-align: center;
+	}
+	
+	.bio {
+	    background-color: #EFEFEF;
+	    -moz-border-radius: 10px 10px 10px 10px;
+	    -webkit-border-radius: 10px 10px 10px 10px;
+	    border-radius: 10px 10px 10px 10px;
+	    padding: 10px 15px;
+	    line-height: 16px !important;
+	}
+	
+/* ============================= */
+/* ! Layout for mobile version   */
+/* ============================= */
+
+@media handheld, only screen and (max-width: 767px) {
+
+	body {
+		
+	}
+
+	.page {
+		background-image: none;
+		
+	}
+}
+
+
+/* ========================================== */
+/* ! Provide higher res assets for iPhone 4   */
+/* ========================================== */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) { 
+
+/*	.logo {
+		background: url(logo2x.jpg) no-repeat;
+		background-size: 212px 303px;
+	}*/
+
+}
