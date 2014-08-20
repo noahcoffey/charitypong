@@ -18,21 +18,24 @@
           <h3>Corporate Challenge</h3>
           <div class="register"><a href="<?=$register_url?>">Register</a></div>
           <ul>
-            <li>Company teams of 5 people each.</li>
-            <li>"Pro" and "Amateur" will be matched up accordingly</li>
+            <li>Company team buy-in is $500 per team.</li>
+            <li>Entry includes 5 t-shirts.</li>
+            <li>5 people per company team.</li>
+            <li>"Pro" and "Amateur" will be matched up accordingly.</li>
             <li>Each team consists of <strong>2 doubles</strong> and <strong>1 single</strong> within the team.</li>
             <li>Each round is 3 games played to 11 points.</li>
-            <li>Company team buy-in is $500 per team</li>
-            <li>Winners: overall corporate winner, corporate doubles winner, corporate singles winner</li>
+            <li>Winners: overall corporate winner, corporate doubles winner, corporate singles winner.</li>
             <li>To win corporate overall, we'll tally the company wins for every match  played in the corporate challenge.</li>
           </ul>
 
           <h3>Singles Challenge</h3>
           <div class="register"><a href="<?=$register_url?>">Register</a></div>
           <ul>
-            <li>$25 entry fee</li>
+            <li>$25 entry fee.</li>
             <li>Separate bracket from the Corporate Challenge.</li>
-            <li>"Pro" and "Amateur" will be matched up accordingly</li>
+            <li>Each round is 3 games played to 11 points.</li>
+            <li>"Pro" and "Amateur" will be matched up accordingly.</li>
+            <li>Winners: overall singles winner.</li>
           </ul>
 
 			    <p>Even if you don't play ping pong, there are still <a href="theevent.php"><strong>great reasons to attend</strong></a>.</p>
