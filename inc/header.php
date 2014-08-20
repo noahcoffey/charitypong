@@ -1,15 +1,24 @@
-<!DOCTYPE html>
+<?php
+  // Variables
+  
+  $donation_url = "http://web.alsa.org/site/TR/Walks/Indiana?px=3790716&pg=personal&fr_id=9208#.Ubchefk4uGU";
+  $event_date = "October 22nd, 2014";
+  $event_time = "5 - 9 PM";
+  $event_doors = "doors open at 4:30";
+  $register_url = "/register.php";
+  
+?><!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
 
-    <meta property="og:title" content="CharityPong"/>
-    <meta property="og:url" content="http://www.charitypong.com/"/>
-    <meta property="og:site_name" content="CharityPong"/>
-    <meta property="og:description" content="a charity ping pong tournament to benefit the Walk to Defeat ALS - Indianapolis - August 21, 2013"/>
-    <meta property="og:image" content="http://www.charitypong.com/images/charitypong-logo-web.png?20130725" />
-    <meta property="og:type" content="website" />
-	<meta property="fb:admins" content="530477378"/>
+  <meta property="og:title" content="CharityPong"/>
+  <meta property="og:url" content="http://www.charitypong.com/"/>
+  <meta property="og:site_name" content="CharityPong"/>
+  <meta property="og:description" content="a charity ping pong tournament to benefit the Walk to Defeat ALS - Indianapolis - October 22nd, 2014"/>
+  <meta property="og:image" content="http://www.charitypong.com/images/charitypong-logo-web.png?20140820" />
+  <meta property="og:type" content="website" />
+  <meta property="fb:admins" content="530477378"/>
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 

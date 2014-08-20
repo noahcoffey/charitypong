@@ -76,9 +76,31 @@
         float: right;
     }
     
+    .info h2 {
+	    margin: 20px 15px 10px 15px;      
+    }
+    
+    .info h3 {
+      margin: 10px 0;
+    }
+    
+    .info ul {
+      margin: 10px 0 20px 30px;
+      font-size: 14px;
+    }
+    
+    .info li {
+      margin-bottom: 5px;
+    }
+    
     .info p {
         margin: 0 0 1em 0;
         font-size: 14px;
+    }
+    
+    .info .register {
+      font-weight: bold;
+      font-size: 12px;
     }
     
     .singleCallout {
@@ -114,8 +136,7 @@
 	.page h2 {
 		font-size: 22px;
 	    color: #444;
-	    margin: 20px 15px 0 15px;
-	    
+	    margin: 20px 15px 0 0;	    
 	}
 	
 	.page p {

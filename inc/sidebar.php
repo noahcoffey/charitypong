@@ -1,12 +1,13 @@
 <div style="text-align:center;margin-bottom:10px;font-size:19px;font-weight:bold;text-shadow:1px 1px 0 #fff">
-August 21st, 2013<br />
-5:00 PM - 9:00 PM<br />
+<?=$event_date?><br />
+<?=$event_time?><br />
+<em><small>(<?=$event_doors?>)</small></em><br />
 <span style="font-weight:normal">at <a href="/location.php">DeveloperTown</a></span>
 </div>
 
-<div style="text-align:center"><a href="/register.php"><img src="images/register.png" alt="Register" /></a></div>
+<div style="text-align:center"><a href="<?=$register_url?>"><img src="images/register.png" alt="Register" /></a></div>
 
-<div class="donateBox">Can't participate or attend the event? <a href="http://web.alsa.org/site/TR/Walks/Indiana?px=3790716&pg=personal&fr_id=9208#.Ubchefk4uGU">Donate directly to our CharityPong efforts!</a></div>
+<div class="donateBox">Can't participate or attend the event? <a href="<?=$donation_url?>">Donate directly to our CharityPong efforts!</a></div>
 
 <div style="margin:15px 0 25px"><div class="fb-like" data-href="http://facebook.com/charitypongindy" data-width="240" data-show-faces="true"></div></div>
 

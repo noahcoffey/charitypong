@@ -11,6 +11,7 @@
 		        <div class="sponsor"><a href="http://www.oneclickventures.com" target="_blank"><img src="/images/oneclick-logo.png" alt="OneClick Ventures"></a></div>
             </div>
 
+<!--
             <div class="section" style="text-align:center">
 		        <div class="sponsor"><a href="http://www.launchfishers.com" target="_blank"><img src="/images/LaunchFishers.png" alt="Launch Fishers"></a></div>
 		        <div class="sponsor"><a href="http://www.icemiller.com" target="_blank"><img src="/images/icemillerweb.jpg" alt="Ice Miller"></a></div>
@@ -35,6 +36,7 @@
                 <div class="sponsor"><a href="http://www.smartfile.com/" target="_blank"><img src="/images/smartfile.png" alt="SmartFile" /></a></div>
                 <div class="sponsor"><a href="http://www.citimarkinc.com/" target="_blank"><img src="/images/CMark_Logo.png" alt="Citimark" /></a></div>
             </div>
+-->
 
 	        <div class="clear"></div>
 	

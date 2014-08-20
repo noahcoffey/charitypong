@@ -9,8 +9,9 @@
 
 	        <div class="box">
 	            <div class="icon"><img src="/images/icon_paddle.png"></div>
-	            <h2>Amateur Ping Pong Tournament</h2>
-	            <p>The main event is a friendly singles ping pong tourney with each game played to <strong>21</strong>. There will be both a winners and 'second chance' bracket, both involving prizes for the winners. We will have several ping pong tables and a large bracket system to keep track of players' positions in the contest. We'll have plenty of tables, paddles, and ping pong balls to keep everyone having fun.</p>
+	            <h2>Ping Pong Tournament</h2>
+	            <p>The main event is a friendly corporate and singles ping pong tourney with each round consisting of <strong>3 games played to 11</strong>. We will have several ping pong tables and a large bracket system to keep track of players' positions in the contest. We'll have plenty of tables, paddles, and ping pong balls to keep everyone having fun.</p>
+	            <p>Players will self-declare themselves as "pro" or "amateur" and be matched up accordingly early in the bracket.</p>
 	        </div>
 	
 	        <div class="box">
