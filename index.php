@@ -18,7 +18,7 @@
           <h3>Corporate Challenge</h3>
           <div class="register"><a href="<?=$register_url?>">Register</a></div>
           <ul>
-            <li>Company team buy-in is $500 per team.</li>
+            <li>Company buy-in is $500 per team.</li>
             <li>Entry includes 5 t-shirts.</li>
             <li>5 people per company team.</li>
             <li>"Pro" and "Amateur" will be matched up accordingly.</li>
