@@ -1,7 +1,7 @@
 <?php
   // Variables
   
-  $donation_url = "http://web.alsa.org/site/TR/Walks/Indiana?px=3790716&pg=personal&fr_id=9208#.Ubchefk4uGU";
+  $donation_url = "http://web.alsa.org/site/TR/3rdParty/Indiana?team_id=283360&pg=team&fr_id=10574";
   $event_date = "October 22nd, 2014";
   $event_time = "5 - 9 PM";
   $event_doors = "doors open at 4:30";
