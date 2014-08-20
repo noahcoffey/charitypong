@@ -4,7 +4,7 @@
 		<div class="ninecol">
 		
 			<h1>The Event</h1>
-			<p>There is plenty of fun to be had at CharityPong, even if you don't want to play ping pong!</p>
+			<p>Not playing in the tourney? <strong><a href="<?=$register_url?>">Register to attend</a></strong>. There is plenty of fun to be had at CharityPong, even if you don't want to play ping pong!</p>
 
 
 	        <div class="box">
