@@ -7,8 +7,13 @@
             <p>CharityPong can't happen without the generous support of our sponsors. They are great, local companies that care about being involved in local, worthwhile causes and events. Learn more about them below. <a href="/sponsorcharitypong.php"><strong>Would you like to sponsor CharityPong?</strong></a></p>
 
             <div class="section" style="text-align:center">
-		        <div class="sponsor"><a href="http://www.formstack.com" target="_blank"><img src="/images/formstack-logo.png" alt="Formstack"></a></div>
-		        <div class="sponsor"><a href="http://www.oneclickventures.com" target="_blank"><img src="/images/oneclick-logo.png" alt="OneClick Ventures"></a></div>
+		          <div class="sponsor"><a href="http://www.formstack.com" target="_blank"><img src="/images/formstack-logo.png" alt="Formstack"></a></div>
+              <div class="sponsor"><a href="http://www.oneclickventures.com" target="_blank"><img src="/images/oneclick-logo.png" alt="OneClick Ventures"></a></div>
+            </div>
+
+            <div class="section" style="text-align:center">
+		          <div class="sponsor"><a href="http://www.felixandiris.com/" target="_blank"><img src="/images/felix+iris.gif" alt="Felix + Iris"></a></div>
+              <div class="sponsor"><a href="http://www.icemiller.com" target="_blank"><img src="/images/ice-miller.gif" alt="Ice Miller"></a></div>
             </div>
 
 <!--
